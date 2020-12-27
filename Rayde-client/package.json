@@ -1,0 +1,21 @@
+{
+  "name": "rayde",
+  "version": "1.0.0",
+  "main": "commands.js",
+  "preferGlobal": true,
+  "bin": {
+    "rayde": "commands.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "rayconnect-client": "^0.11.6-pony"
+  },
+  "devDependencies": {},
+  "description": ""
+}
